@@ -2,6 +2,9 @@
 Pequeño punto de venta con Laravel 7. -->
 ![Bienvenida al sistema de ventas escrito en Laravel](https://horizondevs.net/imgs/linkedin_green.png)
 
+
+🌱 I’m currently learning ... Web development!!
+
 <!--
 **SolisPDev/SolisPDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
