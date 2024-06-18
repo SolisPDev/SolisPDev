@@ -7,7 +7,7 @@ Pequeño punto de venta con Laravel 7.
 
 🌱 I’m currently learning ... in OracleNextEducation
 
-@Oracle y @AluraLatam
+(https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png) y (https://app.aluracursos.com/assets/images/logos/logo-aluraespanhol.svg)
 
 <!--
 **SolisPDev/SolisPDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
