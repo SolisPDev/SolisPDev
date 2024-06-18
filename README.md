@@ -5,7 +5,9 @@ Pequeño punto de venta con Laravel 7.
 
 🌱 I’m currently learning ... Web development!!
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning ... in OracleNextEducation
+
+@Oracle y @AluraLatam
 
 <!--
 **SolisPDev/SolisPDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
