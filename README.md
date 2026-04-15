@@ -1,26 +1,89 @@
-<!-- ## POS con Laravel open source
-Pequeño punto de venta con Laravel 7. 
-![Bienvenida al sistema de ventas escrito en Laravel](https://horizondevs.net/imgs/linkedin_green.png)
--->
+# 👨‍💻 Antonio Solís Perales
 
-🌱 I’m currently learning ... Web development!!
+Desarrollador Backend enfocado en el ecosistema .NET, con experiencia en construcción de APIs y desarrollo de sistemas empresariales.
 
-🌱 I’m currently learning ... in OracleNextEducation
+Actualmente especializado en el desarrollo de APIs REST con ASP.NET Core, aplicando estos conocimientos en la migración de un sistema POS legacy hacia una arquitectura moderna.
 
-![Grupo 7 ONE](https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png)
-![Grupo 7 ONE](https://app.aluracursos.com/assets/images/logos/logo-aluraespanhol.svg)
+---
 
-<!--
-**SolisPDev/SolisPDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 En qué estoy trabajando
 
-Here are some ideas to get you started:
+🔹 Migración de sistema   
+🔹 Desarrollo de API REST con ASP.NET Core  
+🔹 Diseño de sincronización offline-first entre sucursales  
+🔹 Desarrollo basado en **Spec-Driven Development** para definir arquitectura antes de implementación  
 
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Stack principal
+
+- .NET 8 / C#
+- ASP.NET Core (Web API)
+- Entity Framework Core
+- SQL Server / SQLite
+- Vue.js (frontend complementario)
+
+---
+
+## 📌 Enfoque de desarrollo
+
+Trabajo bajo un enfoque de **Spec-Driven Development**, lo que implica:
+
+- Definición clara de requerimientos antes de codificar  
+- Diseño de arquitectura basado en especificaciones  
+- Reducción de retrabajo y ambigüedad  
+- Enfoque en soluciones alineadas a negocio  
+
+---
+
+## 📌 Experiencia relevante
+
+✔️ Desarrollo backend con Java (Spring Boot)  
+✔️ Diseño y consumo de APIs REST  
+✔️ Integración de sistemas (desktop, web y móvil)  
+✔️ Procesamiento de datos (CSV → JSON → API)  
+
+---
+
+## 🎓 Formación
+
+Participante en programas de formación tecnológica como:
+
+- Ingeriero en Informática, Egresado de la Facultad de Ingeniería, de la UASLP, Titulado
+- Oracle Next Education (ONE)  
+- Alura Latam  
+
+Enfocados en desarrollo web, buenas prácticas y fundamentos de ingeniería de software.
+
+---
+
+## 🏗️ Proyecto destacado
+
+### 🔹 HorizonPOS (en desarrollo)
+
+Sistema POS moderno con enfoque offline-first.
+
+**Incluye:**
+- API REST con ASP.NET Core  
+- Gestión de productos, clientes y pedidos  
+- Arquitectura definida mediante especificaciones (Spec-Driven)  
+- Preparado para sincronización entre sucursales  
+
+---
+
+## 🎯 Objetivo profesional
+
+Busco una oportunidad como:
+
+- Backend Developer (.NET)  
+- Desarrollador de APIs  
+- Fullstack Developer  
+
+Aportando experiencia en desarrollo backend, diseño de APIs y migración de sistemas legacy.
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: ( https://www.linkedin.com/in/antoniosolisp/ )
+- Email: ( solispantonio@gmail.com ) ( info@horizondevs.net )
