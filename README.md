@@ -1,27 +1,56 @@
 # 👨‍💻 Antonio Solís Perales
 
-Desarrollador Backend enfocado en el ecosistema .NET, con experiencia en construcción de APIs y desarrollo de sistemas empresariales.
+Software Engineer | Backend Developer (.NET) | Legacy Modernization Specialist
 
-Actualmente especializado en el desarrollo de APIs REST con ASP.NET Core, aplicando estos conocimientos en la migración de un sistema POS legacy hacia una arquitectura moderna.
+Actualmente enfocado en el ecosistema .NET, aplicando experiencia adquirida en sistemas legacy para diseñar APIs modernas, procesos de integración y arquitecturas preparadas para evolución tecnológica.
+
+Mi principal interés profesional es participar en proyectos de:
+
+Desarrollo Backend con .NET
+APIs REST
+Integración de sistemas
+Modernización de aplicaciones legacy
+Arquitecturas empresariales
 
 ---
 
 ## 🚀 En qué estoy trabajando
 
-🔹 Migración de sistema   
-🔹 Desarrollo de API REST con ASP.NET Core  
-🔹 Diseño de sincronización offline-first entre sucursales  
-🔹 Desarrollo basado en **Spec-Driven Development** para definir arquitectura antes de implementación  
+Durante gran parte de mi carrera he trabajado en sistemas críticos para operación diaria de empresas, participando en:
+
+✔️ Sistemas de ventas e inventarios
+✔️ Control de almacenes
+✔️ Integración de procesos administrativos
+✔️ Automatización de operaciones empresariales
+✔️ Migración y modernización de software legado
+✔️ Desarrollo basado en **Spec-Driven Development** para definir arquitectura antes de implementación  
 
 ---
 
-## 🧠 Stack principal
+## 🧠 Proyectos relevantes
 
-- .NET 8 / C#
-- ASP.NET Core (Web API)
-- Entity Framework Core
-- SQL Server / SQLite
-- Vue.js (frontend complementario)
+### 🔹 HorizonPOS (en desarrollo)
+
+Migración de un sistema POS legacy hacia una arquitectura moderna basada en .NET.
+Características principales:
+ASP.NET Core Web API
+SQL Server
+Arquitectura desacoplada
+Integración con aplicaciones móviles
+Estrategia Offline-First
+Spec-Driven Development (SDD)
+
+
+HorizonETL
+Mini plataforma ETL desarrollada en .NET para integrar sistemas legacy con APIs modernas.
+Flujo:
+CSV → Transformación → JSON → API REST
+Tecnologías:
+.NET 8
+C#
+CsvHelper
+HttpClient
+APIs REST
 
 ---
 
@@ -47,27 +76,13 @@ Trabajo bajo un enfoque de **Spec-Driven Development**, lo que implica:
 
 ## 🎓 Formación
 
-Participante en programas de formación tecnológica como:
-
 - Ingeriero en Informática, Egresado de la Facultad de Ingeniería, de la UASLP, Titulado
+
+Participante en programas de formación tecnológica como:
 - Oracle Next Education (ONE)  
 - Alura Latam  
 
 Enfocados en desarrollo web, buenas prácticas y fundamentos de ingeniería de software.
-
----
-
-## 🏗️ Proyecto destacado
-
-### 🔹 HorizonPOS (en desarrollo)
-
-Sistema POS moderno con enfoque offline-first.
-
-**Incluye:**
-- API REST con ASP.NET Core  
-- Gestión de productos, clientes y pedidos  
-- Arquitectura definida mediante especificaciones (Spec-Driven)  
-- Preparado para sincronización entre sucursales  
 
 ---
 
@@ -87,3 +102,4 @@ Aportando experiencia en desarrollo backend, diseño de APIs y migración de sis
 
 - LinkedIn: ( https://www.linkedin.com/in/antoniosolisp/ )
 - Email: ( solispantonio@gmail.com ) ( info@horizondevs.net )
+- web: ( https://horizondevs.net )
